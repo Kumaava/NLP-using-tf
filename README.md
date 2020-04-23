@@ -1,5 +1,5 @@
 # NLP-using-tf
-learning NLP using tensorflow and adding some findings
+learning NLP using tensorflow and adding new findings
 
 
 Overview and purpose 
