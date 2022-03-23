@@ -6,7 +6,7 @@
 * Image Augmentation 
 * Convolutions 
 
-### Times series Forecasting using 
+### Times series Forecasting using
 * Moving Average & Naive Appraoch
 * Linear model using Neural nets, dense layers
 * RNN stateless(Sequence-vector & sequence-sequence for imporved speed))
